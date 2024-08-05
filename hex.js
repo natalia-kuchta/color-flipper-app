@@ -16,3 +16,9 @@ btn.addEventListener('click', function (){
 function getRandomHexIndex (){
     return Math.floor(Math.random() * hex.length)
 }
+
+
+
+
+
+
